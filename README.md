@@ -19,9 +19,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
 
-## Technologies :
+## Technologies:
 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+## Dev Platforms:
+
+<a href="https://www.hackerrank.com/dhruvdeora31"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>   <a href = "https://www.hackerearth.com/@dhruvdeora31"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
 
   ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineet-0&show_icons=true&theme=tokyonight)
   ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vineet-0&show_icons=true&locale=en&layout=compact&theme=onedark)
