@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vineet</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vineet](https://github.com/Vineet-0) 
 <h3 align="center">A passionate Frontend-Developer and Open Source Enthusiast from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-0&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-0" /> </p>
