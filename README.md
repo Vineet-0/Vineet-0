@@ -27,3 +27,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet-0&show_icons=true&locale=en" alt="vineet-0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-0&" alt="vineet-0" /></p>
+
+
+
+## Languages and Tools:
+
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ 
+
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
+  
+  ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineet-0&show_icons=true&theme=tokyonight)
+  ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vineet-0&show_icons=true&locale=en&layout=compact&theme=onedark)
