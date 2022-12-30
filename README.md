@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
 
-### Technologies :
+## Technologies :
 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
