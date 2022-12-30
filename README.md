@@ -25,7 +25,7 @@
 
 ## Dev Platforms:
 
-<a href="https://www.hackerrank.com/dhruvdeora31"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>   <a href = "https://www.hackerrank.com/v_ineet"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>   <a href = "https://www.hackerearth.com/@vineet351016>
+<a href="https://www.hackerrank.com/dhruvdeora31"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>   <a href = "https://www.hackerrank.com/v_ineet"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>   <a href ="https://www.hackerearth.com/@vineet351016">
 
   ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineet-0&show_icons=true&theme=tokyonight)
   ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vineet-0&show_icons=true&locale=en&layout=compact&theme=onedark)
