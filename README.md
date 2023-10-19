@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vineet](https://github.com/Vineet-0) 
+## <span> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vineet](https://github.com/Vineet-0) </span>
 <span> <h3 align="center">A passionate Frontend-Developer and Open Source Enthusiast from India 🇮🇳</h3> </span>
 
 ## Socials:
